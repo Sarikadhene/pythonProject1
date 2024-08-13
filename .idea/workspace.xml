@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="244b6780-aaa5-4ba7-a6eb-d89967fb1464" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/LAB0004.py" afterDir="false" />
+    <list default="true" id="244b6780-aaa5-4ba7-a6eb-d89967fb1464" name="Changes" comment="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting">
+      <change beforePath="$PROJECT_DIR$/src/ex_13082024/LAB0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/LAB0004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +43,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.LAB0004.executor": "Run",
+    "Python.lab001.executor": "Run",
+    "Python.lab002.executor": "Run",
+    "Python.lab003.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
-}</component>
-  <component name="RunManager" selected="Python.lab001">
+}]]></component>
+  <component name="RunManager" selected="Python.lab003">
     <configuration name="lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -153,6 +145,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723400465067</updated>
     </task>
+    <task id="LOCAL-00001" summary="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting">
+      <option name="closed" value="true" />
+      <created>1723518411349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723518411350</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting" />
+    <option name="LAST_COMMIT_MESSAGE" value="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting" />
   </component>
 </project>
