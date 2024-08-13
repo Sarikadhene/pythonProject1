@@ -1,1 +1,1 @@
-name
+print("Sarika")
