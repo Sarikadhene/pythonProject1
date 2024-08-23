@@ -4,8 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="244b6780-aaa5-4ba7-a6eb-d89967fb1464" name="Changes" comment="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting">
-      <change beforePath="$PROJECT_DIR$/src/ex_13082024/LAB0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13082024/LAB0004.py" afterDir="false" />
+    <list default="true" id="244b6780-aaa5-4ba7-a6eb-d89967fb1464" name="Changes" comment="automation tesAfter uploading project from">
+      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab0003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_11082024/lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/TASK #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/TASK #2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab00013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab0007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab0008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab0009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/lab0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/TASK #4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/TASK #5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/TASK #6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/TASK#3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/TASK#7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/TASK#8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/TASK#9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/todo_list.md.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/TASK#10 factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/TASK#11 finonaci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +47,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;assignee&quot;: &quot;Sarikadhene&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;Sarikadhene&quot;
   }
 }</component>
@@ -38,7 +66,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2kWXmMWKJNNPuE6jOS2NWhaLAGT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,16 +76,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.LAB0004.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.TASK #1.executor": "Run",
+    "Python.TASK #2.executor": "Run",
+    "Python.TASK #4.executor": "Run",
+    "Python.TASK #5.executor": "Run",
+    "Python.TASK #6.executor": "Run",
+    "Python.TASK#10 factorial.executor": "Run",
+    "Python.TASK#7.executor": "Run",
+    "Python.TASK#8.executor": "Run",
+    "Python.TASK#9.executor": "Run",
+    "Python.lab00013.executor": "Run",
+    "Python.lab0003.executor": "Run",
+    "Python.lab0007.executor": "Run",
+    "Python.lab0008.executor": "Run",
+    "Python.lab0009.executor": "Run",
     "Python.lab001.executor": "Run",
+    "Python.lab0010.executor": "Run",
+    "Python.lab0011.executor": "Run",
+    "Python.lab0012.executor": "Run",
     "Python.lab002.executor": "Run",
     "Python.lab003.executor": "Run",
+    "Python.lab004.executor": "Run",
+    "Python.lab005.executor": "Run",
+    "Python.lab006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/dhene",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lab003">
-    <configuration name="lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab014">
+    <configuration name="Lab014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_11082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_11082024/lab001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/Lab014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TASK #6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_11082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_11082024/lab002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/TASK #6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TASK#10 factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +160,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_11082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_11082024/lab003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/TASK#10 factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TASK#7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/TASK#7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TASK#8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/TASK#8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,9 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab001" />
-        <item itemvalue="Python.lab003" />
-        <item itemvalue="Python.lab002" />
+        <item itemvalue="Python.Lab014" />
+        <item itemvalue="Python.TASK#10 factorial" />
+        <item itemvalue="Python.TASK#7" />
+        <item itemvalue="Python.TASK#8" />
+        <item itemvalue="Python.TASK #6" />
       </list>
     </recent_temporary>
   </component>
@@ -153,11 +251,28 @@
       <option name="project" value="LOCAL" />
       <updated>1723518411350</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="automation tesAfter uploading project from">
+      <option name="closed" value="true" />
+      <created>1723518567909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723518567909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="automation tesAfter uploading project from">
+      <option name="closed" value="true" />
+      <created>1723518831287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723518831287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting" />
-    <option name="LAST_COMMIT_MESSAGE" value="automation tesAfter uploading project from pycharm to git hub. unable to visible in git hub.&#10;How to delete repositories from github?&#10;tting" />
+    <MESSAGE value="automation tesAfter uploading project from" />
+    <option name="LAST_COMMIT_MESSAGE" value="automation tesAfter uploading project from" />
   </component>
 </project>
