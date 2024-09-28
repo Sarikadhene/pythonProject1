@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="244b6780-aaa5-4ba7-a6eb-d89967fb1464" name="Changes" comment="automation tesAfter uploading project from">
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab0015 reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab0016 break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab0017 pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab0018 continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/bal0019 match statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/lab0019 no my.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/TASK#10 factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_22082024/TASK#10 factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_22082024/TASK#11 finonaci.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_22082024/TASK#11 finonaci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,45 +53,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.LAB0004.executor": "Run",
-    "Python.Lab0015 reverse.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.TASK #1.executor": "Run",
-    "Python.TASK #2.executor": "Run",
-    "Python.TASK #4.executor": "Run",
-    "Python.TASK #5.executor": "Run",
-    "Python.TASK #6.executor": "Run",
-    "Python.TASK#10 factorial.executor": "Run",
-    "Python.TASK#7.executor": "Run",
-    "Python.TASK#8.executor": "Run",
-    "Python.TASK#9.executor": "Run",
-    "Python.lab00013.executor": "Run",
-    "Python.lab0003.executor": "Run",
-    "Python.lab0007.executor": "Run",
-    "Python.lab0008.executor": "Run",
-    "Python.lab0009.executor": "Run",
-    "Python.lab001.executor": "Run",
-    "Python.lab0010.executor": "Run",
-    "Python.lab0011.executor": "Run",
-    "Python.lab0012.executor": "Run",
-    "Python.lab0016 break.executor": "Run",
-    "Python.lab0017 pass.executor": "Run",
-    "Python.lab0018 continue.executor": "Run",
-    "Python.lab002.executor": "Run",
-    "Python.lab003.executor": "Run",
-    "Python.lab004.executor": "Run",
-    "Python.lab005.executor": "Run",
-    "Python.lab006.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/dhene",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.LAB0004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0015 reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK #1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK #2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK #4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK #5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK #6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK#10 factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK#11 finonaci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK#7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK#8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TASK#9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bal0019 match statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab00013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0016 break.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0017 pass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab0018 continue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab006.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dhene&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.lab0018 continue">
-    <configuration name="Lab0015 reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.lab0019 no my">
+    <configuration name="TASK#10 factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/Lab0015 reverse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/TASK#10 factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TASK#11 finonaci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/Lab014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/TASK#11 finonaci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab0016 break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bal0019 match statement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,29 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/lab0016 break.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab0017 pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject1" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/lab0017 pass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/bal0019 match statement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,13 +181,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab0019 no my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_22082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_22082024/lab0019 no my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab0019 no my" />
+        <item itemvalue="Python.TASK#10 factorial" />
+        <item itemvalue="Python.TASK#11 finonaci" />
+        <item itemvalue="Python.bal0019 match statement" />
         <item itemvalue="Python.lab0018 continue" />
-        <item itemvalue="Python.lab0017 pass" />
-        <item itemvalue="Python.Lab0015 reverse" />
-        <item itemvalue="Python.lab0016 break" />
-        <item itemvalue="Python.Lab014" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +269,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724433232677</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="automation tesAfter uploading project from">
+      <option name="closed" value="true" />
+      <created>1724438102930</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724438102930</updated>
+    </task>
+    <task id="LOCAL-00007" summary="automation tesAfter uploading project from">
+      <option name="closed" value="true" />
+      <created>1724445340917</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724445340917</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

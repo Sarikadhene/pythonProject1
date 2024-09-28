@@ -3,7 +3,11 @@
 
 i = int(input("Enter the number  :"))
 
-for i in range(i, 0, -1):
-    print(i, end=" ")
-    j = i * (i - 1)
+j=1
+print(i,end="! --> ")
+for i in range(i,0, -1):
+    print(i,end="")
+    j=j*i
+print(" -> ", j)
+
 
